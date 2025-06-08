@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Падение Блоков</string>
+    <string name="punkte">Очки</string>
+    <string name="level">Уровень</string>
+    <string name="reihen">Линии </string>
+    <string name="game_over">Игра окончена!</string>
+</resources>
